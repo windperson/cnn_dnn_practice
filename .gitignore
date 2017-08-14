@@ -1,1 +1,4 @@
 **/__pycache__/*
+dnn/**/*.png
+cnn/**/*.png
+cnn/**/*.csv
